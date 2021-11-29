@@ -1,0 +1,1 @@
+print("".join([text[0] for text in input().split("-")]))
